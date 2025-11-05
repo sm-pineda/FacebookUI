@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import PostList from './components/PostList.jsx';
 import PostForm from './components/PostForm.jsx';
 
-const API_BASE_URL = 'https://facebook-api-ueki.onrender.com';
+const API_BASE_URL = 'https://facebookapi-u2gq.onrender.com';
 
 export default function App() {
   const [posts, setPosts] = useState([]);
